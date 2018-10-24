@@ -1,0 +1,1 @@
+print('pierwszy program w git')
