@@ -1,2 +1,2 @@
-print('pierwszy program w git')
-print('druga linijka')
+print('hello word')
+print('hello word 2')
